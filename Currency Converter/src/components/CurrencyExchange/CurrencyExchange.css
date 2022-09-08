@@ -1,0 +1,32 @@
+.currency-exchange {
+  padding: 40px 0;
+}
+
+.currency-exchange select {
+  background: #ffffff;
+  box-shadow: 3px 3px 10px rgba(14, 87, 214, 0.26);
+  border-radius: 20px;
+  text-align: center;
+  width: calc(50% - 20px);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.vector {
+  margin: 0 10px;
+}
+
+.vector button {
+  cursor: pointer;
+}
+
+.currency-exchange form {
+  display: flex;
+  align-items: center;
+}
+
+.currency-exchange button {
+  border: none;
+  background: transparent;
+}
